@@ -5,5 +5,6 @@ public with sharing class Viewtestcontroller {
 	public void method01(){}
 	
 	public void method03(){}
+	public void method02(){}
     
 }
